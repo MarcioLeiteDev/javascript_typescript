@@ -1,0 +1,10 @@
+body{
+    background: rgb(19, 168, 136);
+}
+h1{
+    width: 50%;
+    margin:0 auto;
+    padding:2em;
+    color:#999;
+    background: #fff;;
+}

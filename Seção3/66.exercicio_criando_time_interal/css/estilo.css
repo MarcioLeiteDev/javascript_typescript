@@ -1,0 +1,20 @@
+body{
+    background: rgb(51, 73, 199);
+    
+}
+
+.container{
+    width: 65%;
+    border-radius:1.5em;
+    background:#fff;
+    padding:1.5em;
+    color:#333;
+    margin:0 auto;
+}
+.container p{
+    font-size:3em;
+}
+
+.pausado{
+    color:red;
+}
