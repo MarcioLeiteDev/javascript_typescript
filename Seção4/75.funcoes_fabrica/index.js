@@ -43,3 +43,6 @@ console.log(p1.nome , p2.nome)
 console.log(p1.nomeCompleto)
 
 console.log(p1.fala('falando Sobre nada'))
+
+const p3 = criaPessoa('Mariana' , 'Leite' , 1.30 , 40)
+console.log(p3.imc)
